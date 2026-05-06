@@ -76,7 +76,6 @@ projeto/
 ```
 
 ---
-```
 ## ✅ Progresso do Projeto
 
 - [x] Criar repositório
